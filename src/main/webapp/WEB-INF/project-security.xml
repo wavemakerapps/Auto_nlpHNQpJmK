@@ -52,5 +52,6 @@
         <property name="pathEntries">
             <list/>
         </property>
+        <property name="allowCredentials" value="${general.cors.allowCredentials}"/>
     </bean>
 </beans>

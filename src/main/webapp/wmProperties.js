@@ -1,6 +1,6 @@
 var _WM_APP_PROPERTIES = {
   "activeTheme" : "material",
-  "dateFormat" : "",
+  "dateFormat" : "yyyy-MM-dd",
   "defaultLanguage" : "en",
   "displayName" : "Auto_nlpHNQpJmK",
   "homePage" : "Main",
@@ -8,7 +8,7 @@ var _WM_APP_PROPERTIES = {
   "platformType" : "WEB",
   "securityEnabled" : "false",
   "supportedLanguages" : "en",
-  "timeFormat" : "",
+  "timeFormat" : "HH:mm:ss",
   "type" : "APPLICATION",
   "version" : "1.0"
 };
